@@ -1,2 +1,1 @@
-"# NSMBW-LUA-Script" 
-"# NSMBW-LUA-Script" 
+Still learning how to use github
